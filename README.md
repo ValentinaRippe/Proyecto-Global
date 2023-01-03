@@ -1,3 +1,3 @@
-# Proyecto Apeperia
+# Proyecto en progreso
 
-Archivos iniciales del proyecto para Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
+Archivos iniciales del proyecto para Programate Academy del curso "HTML,CSS,JS,REACT", de J V S.
